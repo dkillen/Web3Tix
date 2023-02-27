@@ -1,2 +1,3 @@
-# StarkTix
-An NFT based ticketing dApp for StarkNet
+# Web3Tix
+
+Decentralised event ticketing.
